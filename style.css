@@ -11,6 +11,7 @@
 
 #center {
   text-align: center;
+  font-weight: bold;
 }
 
 h1 {
@@ -38,6 +39,8 @@ a {
   }
 
 img {
+  border-radius: 10px;
+  
 }
 
 p {
